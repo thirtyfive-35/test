@@ -1,1 +1,1 @@
-# test
+# pip3 yukleme sorunu 
